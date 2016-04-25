@@ -1,35 +1,35 @@
-choco install git
-choco install tortoisegit
-choco install tortoisesvn
-choco install googlechrome
-choco install flashplayerplugin
-choco install flashplayeractivex
-choco install notepadplusplus
-choco install 7zip
-choco install skype
-choco install sysinternals
-choco install dotnet4.5.2
-choco install battle.net
-choco install steam
-choco install keepass
-choco install sublimetext3
-choco install deluge
-choco install teamviewer
-choco install jdownloader -pre
-choco install mumble
-choco install discord
-choco install teamspeak
-choco install hexchat
-choco install autohotkey
-choco install autoit
-choco install cheatengine
-choco install malwarebytes
-choco install sharex
-choco install calibre
-choco install foobar2000
-choco install speccy
-choco install cpu-z
-choco install yumi
-choco install eclipse
-choco install filebot
-choco install plexmediaserver
+choco install git -y
+choco install tortoisegit -y
+choco install tortoisesvn -y
+choco install googlechrome -y
+choco install flashplayerplugin -y
+choco install flashplayeractivex -y
+choco install notepadplusplus -y
+choco install 7zip -y
+choco install skype -y
+choco install sysinternals -y
+choco install dotnet4.5.2 -y
+choco install battle.net -y
+choco install steam -y
+choco install keepass -y
+choco install sublimetext3 -y
+choco install deluge -y
+choco install teamviewer -y
+choco install jdownloader -pre -y
+choco install mumble -y
+choco install discord -y
+choco install teamspeak -y
+choco install hexchat -y
+choco install autohotkey -y
+choco install autoit -y
+choco install cheatengine -y
+choco install malwarebytes -y
+choco install sharex -y
+choco install calibre -y
+choco install foobar2000 -y
+choco install speccy -y
+choco install cpu-z -y
+choco install yumi -y
+choco install eclipse -y
+choco install filebot -y
+choco install plexmediaserver -y
